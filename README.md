@@ -6,7 +6,7 @@
 -->
 
 - 🔭 I’m currently working on Web Backend development.
-- 🌱 I’m currently learning Nestjs, Kubernete, Docker, Microservice.
+- 🌱 I’m currently learning Nestjs, Kubernetes, Docker, Microservice.
 - 👯 I’m looking to collaborate on Some good software project.
 - 🤔 I’m looking for help with finding topic of research maybe around Theory Of Computation.
 - 📫 How to reach me: Somewhere around Chiang Mai University.
