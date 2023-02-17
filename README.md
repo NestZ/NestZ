@@ -8,7 +8,9 @@ Software engineer (Backend) @LINEMAN Wongnai
 
 *   🌍  I'm based in Chiang Mai and Chonburi
 *   ✉️  You can contact me at [thaneat.s@lmwn.com](mailto:thaneat.s@lmwn.com)
-*   🤝  I'm open to collaborating on interesting open-source projects### Skills 
+*   🤝  I'm open to collaborating on interesting open-source projects
+
+### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
@@ -27,7 +29,6 @@ Software engineer (Backend) @LINEMAN Wongnai
 </p>
                     
 ### Socials
-                  
                   
 <p align="left">      
 <a href="https://www.github.com/NestZ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
