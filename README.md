@@ -6,16 +6,10 @@ Software engineer
 
 Software engineer (Backend) @LINEMAN Wongnai
 
-* 🌍  I'm based in Chiang Mai and Chonburi
-* ✉️  You can contact me at [thaneat.s@lmwn.com](mailto:thaneat.s@lmwn.com)
-* 🤝  I'm open to collaborating on interesting open-source projects
-
-<a href="https://www.github.com/NestZ" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/NestZ?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-
+*   🌍  I'm based in Chiang Mai and Chonburi
+*   ✉️  You can contact me at [thaneat.s@lmwn.com](mailto:thaneat.s@lmwn.com)
+*   🤝  I'm open to collaborating on interesting open-source projects<a href="https://www.github.com/NestZ" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/NestZ?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
@@ -32,16 +26,14 @@ src="https://img.shields.io/github/followers/NestZ?logo=github&style=for-the-bad
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/NestZ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nestz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/NestZ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NestZ&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/NestZ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestZ&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/NestZ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/nestz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/NestZ"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=NestZ&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
